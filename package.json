@@ -1,0 +1,10 @@
+{
+  "name": "socialTech",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Tetiana Ishchuk",
+  "license": "ISC",
+  "dependencies": {
+      "gulp": "^3.8.11"
+   }
+}
